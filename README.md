@@ -1,6 +1,8 @@
 # Programming-Practice
 ### Data Structure
 - [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
+- [Doubly Linked List](https://en.wikipedia.org/wiki/Doubly_linked_list)
+- [Linked List](https://en.wikipedia.org/wiki/Linked_list)
 - Sparse Matrix Fast Transpose
 ### Object Oriented Programming
 - BigNumber Library
