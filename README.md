@@ -1,4 +1,4 @@
-# ☬☉Programming-Practice
+# Programming-Practice
 ### Data Structure
 - [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
 - Sparse Matrix Fast Transpose
