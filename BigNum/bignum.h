@@ -39,9 +39,9 @@ public:
     
     void operator+=(const BigNum&);
     void operator-=(const BigNum&);
-	void operator*=(const long long int&);
-	void operator*=(const BigNum&);
-	void operator/=(const long long int&);
+    void operator*=(const long long int&);
+    void operator*=(const BigNum&);
+    void operator/=(const long long int&);
     void operator/=(const BigNum&);
 
     friend istream& operator>>(istream&,BigNum&);
