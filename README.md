@@ -13,7 +13,7 @@
 - [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method#Simulation_and_optimization)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 - Sort
-#####[Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
+##### [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 ### Other
 - Expression
 - [Extended Euclidean](https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm)
