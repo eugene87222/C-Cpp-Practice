@@ -11,6 +11,7 @@
 - [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
 - [Knuth Morris Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
+sort
 - [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method#Simulation_and_optimization)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 ### Other
