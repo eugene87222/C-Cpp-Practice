@@ -18,4 +18,4 @@
 - Expression (math)
 - [Extended Euclidean](https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm)
 ---
-> NOTICE:Some codes might be incomplete or trivial and I am trying to make it better
+NOTICE : Some codes might be incomplete or trivial and I am trying to make it better
