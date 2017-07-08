@@ -9,6 +9,7 @@
 ### Algorithm
 - [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 - [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+- [Fibonacci search](https://en.wikipedia.org/wiki/Fibonacci_search_technique)
 - [Knuth Morris Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 - [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method#Simulation_and_optimization)
