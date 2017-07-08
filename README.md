@@ -10,10 +10,10 @@
 - [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 - [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
 - [Knuth Morris Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
-- [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
-sort
 - [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method#Simulation_and_optimization)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
+- Sort
+>> [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 ### Other
 - Expression
 - [Extended Euclidean](https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm)
