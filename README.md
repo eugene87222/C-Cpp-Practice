@@ -3,6 +3,7 @@
 - [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 - [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
 - [Fibonacci search](https://en.wikipedia.org/wiki/Fibonacci_search_technique)
+- [Hanoi Tower](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
 - [Josephus problem](https://en.wikipedia.org/wiki/Josephus_problem)
 - [Knuth Morris Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
