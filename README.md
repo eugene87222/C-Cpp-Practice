@@ -8,7 +8,7 @@
 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 - [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method#Simulation_and_optimization)
 - Pick elements from a set
->>> test
+     test
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 ### Data Structure
 - [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
