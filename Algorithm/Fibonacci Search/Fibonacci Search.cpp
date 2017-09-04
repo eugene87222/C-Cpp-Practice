@@ -9,7 +9,7 @@ using namespace std;
  	(n = length of array)
 
 * * * * * * * * * * * * * */
-void createFibonacci(int *Fib, int length){ 
+void createFibonacci(int *Fib,int length){ 
     Fib[0]=0; 
     Fib[1]=1; 
     for(int i=2;i<length;i++) 
