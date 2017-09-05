@@ -2,7 +2,7 @@
 #include <string>
 #include <sstream>
 #include <iomanip>
-#include "0516034.h"
+#include "bignum.h"
 using namespace std;
 BigNum::BigNum(){
     fill(number,number+MAX,0);
