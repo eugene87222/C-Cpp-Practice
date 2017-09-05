@@ -5,7 +5,7 @@ void max_heapify(int *arr,int start,int end){
 	int dad=start;
 	int son=dad*2+1;
 	while(son<=end){
-		if(son+1<=end&&arr[son]<arr[son+1]) //先比較兩個子節點大小，選擇最大的
+		if(son+1<=end&&arr[son]<arr[son+1])
 			son++;
 		if(arr[dad]>arr[son])
 			return;
