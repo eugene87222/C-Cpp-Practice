@@ -11,6 +11,7 @@
 - Permutation and Combination
 - [RSA cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 - [Sort](https://en.wikipedia.org/wiki/Sorting_algorithm)
+  - Quick Sort
 ### Data Structure
 - [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
 - [Doubly Linked List](https://en.wikipedia.org/wiki/Doubly_linked_list)
