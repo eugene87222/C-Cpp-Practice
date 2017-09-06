@@ -15,9 +15,9 @@
   - Picking items from a set
 - [RSA cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 - [Sort](https://en.wikipedia.org/wiki/Sorting_algorithm)
-  - Heap Sort
-  - Merge Sort
-  - Quick Sort
+  - [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
+  - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
+  - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 ### Data Structure
 - [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
 - [Doubly Linked List](https://en.wikipedia.org/wiki/Doubly_linked_list)
