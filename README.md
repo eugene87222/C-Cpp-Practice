@@ -9,8 +9,14 @@
 - [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method#Simulation_and_optimization)
 - [Perfect number](https://en.wikipedia.org/wiki/Perfect_number)
 - Permutation and Combination
+  - Finding all combinations of a set (lexicographic)
+  - Finding all combinations of a set
+  - Permutation and Combination
+  - Picking items from a set
 - [RSA cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 - [Sort](https://en.wikipedia.org/wiki/Sorting_algorithm)
+  - Heap Sort
+  - Merge Sort
   - Quick Sort
 ### Data Structure
 - [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
