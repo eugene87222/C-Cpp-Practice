@@ -1,14 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
-
-/* * * * * * * * * * * * * *
-
- 	Fy + m = n
- 	Fy >= n + 1
- 	x = y - 1
- 	(n = length of array)
-
-* * * * * * * * * * * * * */
+/**************************
+ 	F(y)+m=n
+ 	F(y+1)>=n+1
+ 	x=y-1
+ 	(n=length of array)
+**************************/
 void createFibonacci(int *Fib,int length){ 
     Fib[0]=0; 
     Fib[1]=1; 
