@@ -9,7 +9,7 @@ using namespace std;
 /* 3.let r=(p-1)(q-1)                          */
 /* 4.find e that gcd(e,r)=1                    */
 /* 5.find d that e*d=1 mod r                   */
-/* 6.(N,e) -> private key, (N,d) -> public key */
+/* 6.(N,e) -> public key, (N,d) -> private key */
 /* 7.c=m^e mod N (encryption)                  */
 /* 8.m2=c^d mod N (decryption)                 */
 /* m2 must equal to m                          */
