@@ -2,6 +2,7 @@
 ### Algorithm
 - [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 - [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+- [Craps](https://en.wikipedia.org/wiki/Craps)
 - [Fibonacci search](https://en.wikipedia.org/wiki/Fibonacci_search_technique)
 - [Hanoi Tower](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
 - [Josephus problem](https://en.wikipedia.org/wiki/Josephus_problem)
