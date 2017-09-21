@@ -1,13 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int cmp(const void *a,const void *b){
-    int c=*(int*)a;
-    int d=*(int*)b;
-    if(c<d) return -1;
-    else if(c==d) return 0;
-    else return 1;
-}
 void quicksort(int* arr,int left,int right){
     if(left<right){
         int i=left+1,j=right,pivot=arr[left],temp;
