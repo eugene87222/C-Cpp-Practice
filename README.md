@@ -9,6 +9,7 @@
 - [Knuth Morris Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
 - [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method#Simulation_and_optimization)
 - [Narcissistic number](https://en.wikipedia.org/wiki/Narcissistic_number)
+- [N-th Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number#Matrix_form)
 - [Perfect number](https://en.wikipedia.org/wiki/Perfect_number)
 - Permutation and Combination
   - Finding all combinations of a set (lexicographic)
