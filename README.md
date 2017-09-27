@@ -12,7 +12,7 @@
   - Finding all combinations of a set (lexicographic)
   - Finding all combinations of a set
   - Permutation and Combination
-  - Picking items from a set
+  - Picking n items from m items
 - [RSA cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 - Sharing Cookies
 - [Sort](https://en.wikipedia.org/wiki/Sorting_algorithm)
