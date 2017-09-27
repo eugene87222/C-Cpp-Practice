@@ -14,7 +14,7 @@
   - Permutation and Combination
   - Picking n items from m items
 - [RSA cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
-- Sharing Cookies
+- Separate Number
 - [Sort](https://en.wikipedia.org/wiki/Sorting_algorithm)
   - [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
   - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
