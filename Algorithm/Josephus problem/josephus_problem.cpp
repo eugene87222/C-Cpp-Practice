@@ -31,7 +31,7 @@ int next(int* man,int len,int n,int k){ /* pick the next person */
     int count=0;
     while(count<k) {
         n=(n+1)%len;
-        if(man[n]==0) count++; /* if n-th person has been killed, skip and continue */
+        if(man[n]==0) count++; /* if n-th person has not been killed, count him */
     }    
     return n;
 }
