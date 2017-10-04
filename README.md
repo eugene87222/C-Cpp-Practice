@@ -1,5 +1,6 @@
 # C/Cpp-Practice
 ### Algorithm
+- [BFPRT](https://en.wikipedia.org/wiki/Median_of_medians)
 - [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 - [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
 - [Fibonacci search](https://en.wikipedia.org/wiki/Fibonacci_search_technique)
