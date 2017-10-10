@@ -13,6 +13,7 @@
   - Finding all combinations of a set
   - Permutation and Combination
   - Picking n items from m items
+- [Quick Select](https://en.wikipedia.org/wiki/Quickselect)
 - [RSA cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 - Separate Number
 - [Sort](https://en.wikipedia.org/wiki/Sorting_algorithm)
