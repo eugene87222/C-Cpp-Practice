@@ -21,19 +21,6 @@ TreeNode *buildTreeRecur(Iter pstart,Iter pend,Iter istart,Iter iend){
 TreeNode *buildTreeFromPreorderInorder(vector<int> &preorder, vector<int> &inorder){
     return buildTreeRecur(preorder.begin(),preorder.end(),inorder.begin(),inorder.end());
 }
-TreeNode *buildBinaryTreeResur(Iter istart,Iter iend,Iter pstart,Iter pend){
-    if (istart==iend||pstart==pend)
-        return NULL;
-    int ival=*(pend-1);
-    Iter itemp=find(istart,iend,ival);
-    TreeNode *res=new TreeNode(ival);
-    res->left=buildBinaryTreeResur(istart,itemp,pstart,pstart+(itemp-istart));
-    res->right=buildBinaryTreeResur(itemp+1,iend,pstart+(itemp-istart),pend-1);
-    return res;
-}
-TreeNode *buildTreeFromInorderPostorder(vector<int> &inorder,vector<int> &postorder){
-    return buildBinaryTreeResur(inorder.begin(),inorder.end(),postorder.begin(),postorder.end());
-}
 void preOrder(TreeNode *node){
     if(node==NULL) return;
     cout<<node->val<<endl;
