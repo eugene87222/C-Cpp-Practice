@@ -3,6 +3,7 @@ using namespace std;
 /**************************
  	F(y)+m=n
  	F(y+1)>=n+1
+	(F(y)<=n+1)
  	x=y-1
  	(n=length of array)
 **************************/
