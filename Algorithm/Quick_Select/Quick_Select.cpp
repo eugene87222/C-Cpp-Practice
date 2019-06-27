@@ -12,6 +12,7 @@ int partition(int *arr,int l,int r){
     swap(arr[i+1],arr[r]);
     return i+1;
 }
+
 int quickselect(int *arr,int l,int r,int k){
     if(l==r)
         return arr[l];
@@ -24,6 +25,7 @@ int quickselect(int *arr,int l,int r,int k){
     else
         return quickselect(arr,j+1,r,k-length);
 }
+
 int main(){
     int n,k;
     cin>>n;
