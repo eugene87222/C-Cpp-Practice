@@ -1,11 +1,14 @@
-# C/Cpp-Practice
-### Algorithm
+# Programing-Practice
+
+## Algorithm
 - [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 - [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+- [Extended Euclidean](https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm)
 - [Fibonacci search](https://en.wikipedia.org/wiki/Fibonacci_search_technique)
 - [Hanoi Tower](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
 - [Josephus problem](https://en.wikipedia.org/wiki/Josephus_problem)
 - [Knuth Morris Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
+- Mathematical expression
 - [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method#Simulation_and_optimization)
 - [N-th Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number#Matrix_form)
 - Permutation and Combination
@@ -20,16 +23,19 @@
   - [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
   - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
   - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
-### Data Structure
+
+## Data Structure
 - [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
 - [Binary Tree](https://en.wikipedia.org/wiki/Binary_tree)
 - [Doubly Linked List](https://en.wikipedia.org/wiki/Doubly_linked_list)
 - [Linked List](https://en.wikipedia.org/wiki/Linked_list)
 - Sparse Matrix Fast Transpose
-### Object Oriented Programming
-- BigNumber Library
-### Other
-- Mathematical expression
-- [Extended Euclidean](https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm)
+
+## Object Oriented Programming
+- Big Number Library
+
+## Operating System
+- Simple fork() practice
+
 ---
 NOTICE : Some codes might be incomplete or trivial and I am trying to make it better
