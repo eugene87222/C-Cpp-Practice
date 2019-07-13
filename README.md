@@ -38,4 +38,6 @@
 - Simple fork() practice
 
 ---
-NOTICE : Some codes might be incomplete or trivial and I am trying to make it better
+_NOTICE:  
+Some codes might be incomplete or trivial and I am trying to make it better.  
+Please do not hesitate to inform me if you have any questions. (via email or simply new a issue)_
