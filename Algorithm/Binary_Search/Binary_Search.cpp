@@ -1,31 +1,49 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <algorithm>
+#include <vector>
+#include <fstream>
+#include <cstdio>
 using namespace std;
-#define N 10
 
-int BinarySearch(int *A, int x, int left, int right) {
+int BinarySearch(vector<int>& vec, int target, int left, int right) {
     if(left <= right) {
-        int middle = (left + right) / 2;
-        if(x < A[middle]) return BinarySearch(A, x, left, middle - 1);
-        if(x > A[middle]) return BinarySearch(A, x, middle + 1, right);
-        if(x == A[middle]) return middle;
+        int mid = (left + right) / 2;
+        if(target < vec[mid]) return BinarySearch(vec, target, left, mid - 1);
+        if(target > vec[mid]) return BinarySearch(vec, target, mid + 1, right);
+        if(target == vec[mid]) return mid;
     }
     return -1 ;
 }
 
-int main() {
-    int index, n1, DATA[N];
-   	cout << "Input 10 integers:" << endl;
-    for(n1 = 0; n1 < N; n1++)
-        cin >> DATA[n1];
-    sort(DATA, DATA+N);
-    cout << "After sort: ";
-    for(n1 = 0; n1 < N; n1++)
-        cout << DATA[n1] << ' ';
-    cout << endl;
-    cout << "Input the searched element: ";
-    cin >> n1;
-    index = BinarySearch(DATA, n1, 0, N - 1);
-    printf("The index of the searched element x is at %d.", index);
+void PrintVec(vector<int>& vec) {
+    for(vector<int>::iterator it = vec.begin(); it != vec.end(); it++) {
+        printf("%d ", *it);
+    }
+    printf("\n");
+}
 
+int main() {
+    /* test.in
+    10 <- number of elements
+    1 5 6 8 2 4 6 9 2 3 <- each elements
+    1 5 3 ... <- searching targets
+    */
+    ifstream input_file;
+    int length, target;
+    vector<int> vec;
+
+    input_file.open("test.in", ifstream::in);
+    input_file >> length;
+    vec = vector<int>(length);
+
+    for(int i = 0; i < length; i++) {
+        input_file >> vec[i];
+    }
+    sort(vec.begin(), vec.end());
+    PrintVec(vec);
+    while(input_file >> target) {
+        printf("The index of %d is at %d.\n", 
+            target, BinarySearch(vec, target, 0, length - 1));
+    }
     return 0;
 }
