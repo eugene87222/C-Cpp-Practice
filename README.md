@@ -12,7 +12,7 @@ Requirement
 
 ## Algorithm
 - [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
-- [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+- ~~LOTS OF BUGS, FIXING [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)~~
 - [Extended Euclidean](https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm)
 - [Fibonacci search](https://en.wikipedia.org/wiki/Fibonacci_search_technique)
 - [Hanoi Tower](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
