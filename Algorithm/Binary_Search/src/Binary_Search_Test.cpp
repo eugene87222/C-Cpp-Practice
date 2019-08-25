@@ -1,4 +1,5 @@
 #include <gtest/gtest.h>
+#include <algorithm>
 #include <vector>
 
 #include "Binary_Search.h"
@@ -23,6 +24,7 @@ public:
 void BinarySearchTest::SetUp()
 {
     std::vector<int> vec = {12, 51, 36, 80, 22, 41, 68, 77, 52, 32};
+    sort(vec.begin(), vec.end());
     iObj.SetData(vec);
     iLength = vec.size() - 1;
 }
@@ -49,7 +51,7 @@ TEST_F(BinarySearchTest, TEST_CASE_2)
     // iObj.PrintVec();
     // std::cout << iLength << std::endl;
 
-    EXPECT_EQ(pos, 6);
+    EXPECT_EQ(pos, 7);
 }
 
 TEST_F(BinarySearchTest, TEST_CASE_3)
@@ -59,7 +61,7 @@ TEST_F(BinarySearchTest, TEST_CASE_3)
     // iObj.PrintVec();
     // std::cout << iLength << std::endl;
 
-    EXPECT_EQ(pos, 1);
+    EXPECT_EQ(pos, 5);
 }
 } // namespace
 

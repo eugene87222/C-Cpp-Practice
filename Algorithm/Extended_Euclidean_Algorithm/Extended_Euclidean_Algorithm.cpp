@@ -16,6 +16,9 @@ int ExtEuclidean(int a,int b,int& x,int& y) {
 }
 
 int main(int argc, char const *argv[]) {
+    /* test.in
+    13 234 <- a, b
+    */
 	int a, b, x, y;
     ifstream input_file;
     input_file.open("test.in", fstream::in);
