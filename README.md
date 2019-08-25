@@ -1,5 +1,15 @@
 # Programing-Practice
 
+## Build
+```bash
+mkdir build
+cmake ..
+make
+```
+Requirement
+- CMake
+- Google Test
+
 ## Algorithm
 - [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 - [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
