@@ -1,11 +1,3 @@
-/**
- * @ Author: Your name
- * @ Create Time: 2019-08-25 05:46:27
- * @ Modified by: Your name
- * @ Modified time: 2019-08-25 06:56:31
- * @ Description:
- */
-
 #ifndef BINARY_SEARCH_H
 #define BINARY_SEARCH_H
 
